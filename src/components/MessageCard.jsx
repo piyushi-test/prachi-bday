@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Prachi Batra],
+  const message = `[MERI RASMALAI],
 
 Happy Happy Happy Birthday Prachi Batra soon to be Tejwani 
 You are an amazing human being i imagine of i thank my destiny everytime when you be you,
